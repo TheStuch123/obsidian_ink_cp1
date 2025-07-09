@@ -97,7 +97,7 @@ export function TldrawDrawingEditor(props: TldrawDrawingEditorProps) {
 			if (value === "color") {
 			  key.defaultValue = "light-blue"; // 默认颜色
 			} else if (value === "size") {
-			  key.defaultValue = "m"; // 默认大小
+			  key.defaultValue = "xl"; // 默认大小
 			}
 		  }
 		}
